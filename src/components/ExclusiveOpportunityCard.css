@@ -1,0 +1,214 @@
+.dont-miss-this,
+.enter-your-email {
+  position: relative;
+  display: inline-block;
+}
+.dont-miss-this {
+  letter-spacing: -0.02em;
+  line-height: 64px;
+  font-weight: 500;
+  width: 762px;
+}
+.enter-your-email {
+  line-height: 32px;
+  width: 571px;
+  flex-shrink: 0;
+}
+.icon-line-user2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.enter-your-email1 {
+  flex: 1;
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.search-md-icon2 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.subscribe {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  font-weight: 600;
+}
+.icon-placeholder-child4 {
+  position: absolute;
+  height: 89.58%;
+  width: 89.58%;
+  top: 5.21%;
+  right: 5.21%;
+  bottom: 5.21%;
+  left: 5.21%;
+  border-radius: var(--br-21xl);
+  border: 1.5px solid var(--white);
+  box-sizing: border-box;
+}
+.button14,
+.buttonbase3 {
+  display: flex;
+  flex-direction: row;
+}
+.buttonbase3 {
+  border-radius: var(--br-39xl);
+  background-color: var(--primary-60);
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-5xl);
+  gap: var(--gap-3xs);
+}
+.button14 {
+  align-items: flex-start;
+  justify-content: flex-end;
+  color: var(--white);
+}
+.icon-placeholder-child5 {
+  position: absolute;
+  height: 89.58%;
+  width: 89.58%;
+  top: 5.21%;
+  right: 5.21%;
+  bottom: 5.21%;
+  left: 5.21%;
+  border-radius: var(--br-21xl);
+  border: 1.5px solid var(--neutral-100);
+  box-sizing: border-box;
+}
+.inputbase1 {
+  border-radius: var(--br-39xl);
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-darkslategray-100);
+  box-sizing: border-box;
+  width: 501px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-5xs) var(--padding-5xs)
+    var(--padding-xl);
+  gap: var(--gap-3xs);
+  font-size: var(--body-base-medium-size);
+  color: var(--color-gray-100);
+}
+.enter-your-email-address-and-s-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: var(--font-size-xl);
+  color: var(--neutral-40);
+}
+.dont-miss-this-exclusive-oppo-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.footer-child {
+  position: relative;
+  border-top: 1px solid var(--color-darkslategray-300);
+  box-sizing: border-box;
+  width: 1201px;
+  height: 1px;
+}
+.logo-black-2-wrapper {
+  width: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.features {
+  position: relative;
+  line-height: 150%;
+}
+.frame-parent36,
+.menu2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.menu2 {
+  justify-content: flex-start;
+  gap: var(--gap-13xl);
+}
+.frame-parent36 {
+  align-self: stretch;
+  justify-content: space-between;
+}
+.coca-inc-all {
+  flex: 1;
+  position: relative;
+  line-height: 24px;
+  opacity: 0.7;
+}
+.ellipse-div,
+.social-media-child {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.ellipse-div {
+  border-radius: 50%;
+  background-color: var(--white);
+  width: 40px;
+  height: 40px;
+  display: none;
+  opacity: 0.1;
+}
+.social-media,
+.social-media-wrapper {
+  display: flex;
+  justify-content: flex-start;
+}
+.social-media {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-5xl);
+}
+.social-media-wrapper {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-gray-200);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-base);
+}
+.coca-inc-all-rights-reserved-parent,
+.footer,
+.frame-parent35 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.footer,
+.frame-parent35 {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-13xl);
+  font-size: var(--body-base-medium-size);
+}
+.footer {
+  background-color: var(--color-gray-400);
+  overflow: hidden;
+  padding: var(--padding-61xl) var(--padding-89xl) var(--padding-21xl);
+  gap: var(--gap-41xl);
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--white);
+  font-family: var(--body-xs-normal);
+}

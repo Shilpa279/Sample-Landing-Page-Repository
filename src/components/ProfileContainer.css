@@ -1,0 +1,19 @@
+.avatar3-1 {
+  position: absolute;
+  height: 118.75%;
+  width: 88.67%;
+  top: 1.56%;
+  right: 5.08%;
+  bottom: -20.31%;
+  left: 6.25%;
+  background-color: var(--color-gray-700);
+}
+.avatar {
+  position: relative;
+  border-radius: 30.63px;
+  background-color: var(--color-peachpuff-200);
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+}

@@ -1,0 +1,167 @@
+.ease-in-the {
+  margin: 0;
+}
+.ease-in-the-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 120%;
+  font-weight: 500;
+}
+.ease-in-the-hand-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.using-our-app {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--desktop-paragraph-paragraph-2-size);
+  letter-spacing: -0.01em;
+  line-height: 28px;
+  color: var(--color-dimgray-100);
+}
+.frame-parent30 {
+  align-self: stretch;
+  gap: var(--gap-5xl);
+}
+.frame-parent29,
+.frame-parent30,
+.frame-parent31 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent31 {
+  align-self: stretch;
+  gap: var(--gap-13xl);
+  font-size: var(--desktop-heading-h6-size);
+}
+.frame-parent29 {
+  flex: 1;
+  gap: var(--gap-21xl);
+}
+.club-info1 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.03em;
+  text-transform: uppercase;
+}
+.club-info-container,
+.testimonial-2-inner {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.club-info-container {
+  width: 346.67px;
+  display: flex;
+}
+.testimonial-2-inner {
+  width: 212px;
+  display: none;
+  font-size: var(--font-size-61xl);
+  color: var(--white);
+  font-family: var(--font-futura-std);
+}
+.we-are-very {
+  align-self: stretch;
+  position: relative;
+  line-height: 32px;
+  font-weight: 500;
+}
+.ceo-at-pizza,
+.stevano-william {
+  position: relative;
+  font-weight: 600;
+}
+.ceo-at-pizza {
+  font-size: var(--body-base-medium-size);
+  letter-spacing: -0.01em;
+  font-family: var(--font-plus-jakarta-sans);
+}
+.avatar-group,
+.stevano-william-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xs);
+}
+.avatar-group {
+  flex-direction: row;
+  align-items: center;
+  gap: var(--gap-xs);
+  font-size: var(--desktop-paragraph-paragraph-2-size);
+}
+.the-use-of-this-application-ha-parent,
+.we-are-very-impressed-with-the-parent {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-honeydew);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-13xl);
+  gap: var(--gap-5xl);
+}
+.the-use-of-this-application-ha-parent {
+  background-color: var(--color-aliceblue);
+  color: var(--color-steelblue);
+}
+.product-owner-mcdonalds,
+.we-are-pleased {
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.we-are-pleased {
+  align-self: stretch;
+  line-height: 32px;
+}
+.product-owner-mcdonalds {
+  font-size: var(--body-base-medium-size);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.we-are-pleased-with-the-flexib-parent {
+  align-self: stretch;
+  border-radius: var(--br-xl);
+  background-color: var(--color-seashell);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-13xl);
+  gap: var(--gap-5xl);
+  color: var(--color-lightsalmon);
+}
+.frame-parent32,
+.testimonial-2,
+.we-are-pleased-with-the-flexib-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent32 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-13xl);
+  font-size: var(--desktop-heading-h6-size);
+  color: var(--color-teal);
+}
+.testimonial-2 {
+  background-color: var(--white);
+  width: 1440px;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+  padding: 0 var(--padding-101xl) var(--padding-101xl) var(--padding-121xl);
+  box-sizing: border-box;
+  gap: var(--gap-45xl);
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--neutral-100);
+  font-family: var(--body-xs-normal);
+}

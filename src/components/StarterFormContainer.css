@@ -1,0 +1,288 @@
+.starter {
+  position: relative;
+  font-weight: 600;
+}
+.starter-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 0;
+}
+.choose-your-membership {
+  position: absolute;
+  margin: 0 !important;
+  top: 24px;
+  left: 4px;
+  text-transform: uppercase;
+  font-family: var(--font-futura-std);
+  display: none;
+  z-index: 1;
+}
+.frame-parent21 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-5xl) var(--padding-13xl);
+  position: relative;
+  gap: var(--gap-5xl);
+  z-index: 0;
+  text-align: center;
+  font-size: var(--desktop-heading-h6-size);
+  color: var(--font-light-font-primary);
+}
+.price {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 32px;
+  font-weight: 500;
+}
+.line-div,
+.price-wrapper {
+  align-self: stretch;
+  box-sizing: border-box;
+}
+.price-wrapper {
+  height: 136px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-13xl) var(--padding-5xl);
+  z-index: 1;
+}
+.line-div {
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  height: 1px;
+  z-index: 2;
+}
+.unlimited-transactions-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 3;
+}
+.frame-child9 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 4;
+}
+.multi-outlet-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 5;
+}
+.frame-child10 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 6;
+}
+.report-featured-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 7;
+}
+.frame-child11 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 8;
+}
+.inventory-management-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 9;
+}
+.frame-child12 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 10;
+}
+.direct-report-teamreview-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 11;
+}
+.frame-child13 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 12;
+}
+.emplovee-management-system-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 13;
+}
+.frame-child14 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 14;
+}
+.crm-and-promotion-features-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 15;
+}
+.frame-child15 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--color-silver-100);
+  box-sizing: border-box;
+  height: 1px;
+  z-index: 16;
+}
+.third-party-application-integr-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  z-index: 17;
+}
+.frame-child16 {
+  align-self: stretch;
+  position: relative;
+  border-top: 1px solid var(--neutral-30);
+  box-sizing: border-box;
+  height: 1px;
+  display: none;
+  z-index: 18;
+}
+.check-circle-alt-icon6 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.flexibel-rotationsticky-optio1 {
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+  width: 262px;
+  flex-shrink: 0;
+}
+.check-circle-alt-parent4 {
+  align-self: stretch;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  z-index: 19;
+  font-size: var(--desktop-paragraph-paragraph-2-size);
+  color: var(--font-light-font-secondary);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.subscribe-on-both1 {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.arrow-narrow-right-icon5 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.subscribe-on-both-memberships-group {
+  border-radius: var(--br-981xl);
+  background-color: var(--primary-blue);
+  width: 401px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-sm) var(--padding-13xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xs);
+}
+.frame-wrapper7 {
+  display: none;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  z-index: 20;
+  font-size: var(--body-base-medium-size);
+  color: var(--white);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.check-circle-alt-icon7,
+.check-circle-alt-icon8 {
+  position: absolute;
+  margin: 0 !important;
+  top: 16px;
+  left: 433px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+  z-index: 21;
+}
+.check-circle-alt-icon8 {
+  left: 329px;
+  z-index: 22;
+}
+.frame-parent20 {
+  width: 405px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--body-xs-normal);
+}

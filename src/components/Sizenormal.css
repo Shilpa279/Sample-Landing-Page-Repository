@@ -1,0 +1,39 @@
+.icon-placeholder-item {
+  position: absolute;
+  height: 89.58%;
+  width: 89.58%;
+  top: 5.21%;
+  right: 5.21%;
+  bottom: 5.21%;
+  left: 5.21%;
+  border-radius: var(--br-21xl);
+  border: 1.5px solid var(--white);
+  box-sizing: border-box;
+}
+.icon-placeholder1 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.button {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.sizenormal {
+  border-radius: var(--br-39xl);
+  background-color: var(--primary-60);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs);
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--body-base-medium-size);
+  color: var(--white);
+  font-family: var(--body-xs-normal);
+}

@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Futura+Std:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sauce+Sans:wght@600&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --body-xs-normal: Poppins;
+  --font-plus-jakarta-sans: "Plus Jakarta Sans";
+  --font-futura-std: "Futura Std";
+  --desktop-button-small: "DM Sans";
+  --label-label-2: "Open Sauce Sans";
+
+  /* font sizes */
+  --body-base-medium-size: 16px;
+  --font-size-xl: 20px;
+  --font-size-29xl: 48px;
+  --desktop-paragraph-paragraph-2-size: 18px;
+  --font-size-45xl: 64px;
+  --desktop-heading-h6-size: 24px;
+  --font-size-61xl: 80px;
+  --desktop-button-small-size: 14px;
+  --font-size-13xl: 32px;
+  --body-xs-normal-size: 12px;
+
+  /* Colors */
+  --white: #fff;
+  --color-gray-100: #828487;
+  --color-gray-200: #232329;
+  --greyscale-grey-80: #232124;
+  --color-gray-300: #222;
+  --font-light-font-primary: #191d20;
+  --color-gray-400: #1b1b1e;
+  --neutral-100: #19191c;
+  --color-gray-500: #131315;
+  --font-light-primary: #100e18;
+  --color-gray-600: rgba(0, 0, 0, 0.56);
+  --color-gray-700: rgba(0, 0, 0, 0.2);
+  --font-light-font-secondary: #363d43;
+  --color-darkslategray-100: #35353d;
+  --color-darkslategray-200: #363439;
+  --color-darkslategray-300: #2d2d30;
+  --primary-60: #ff5c00;
+  --neutral-40: #c2c2c2;
+  --color-silver-100: rgba(189, 195, 200, 0.5);
+  --color-ghostwhite-100: #f8f9fd;
+  --stroke-light: #efedf3;
+  --stroke-stroke-light: #e2e5e7;
+  --neutral-30: #e4e4e4;
+  --grey-stroke: #e0e3e6;
+  --font-light-secondary: #605f66;
+  --color-dimgray-100: #4d4e57;
+  --color-seashell: #fff5ee;
+  --color-lightsalmon: #dc8558;
+  --color-peachpuff-100: #fad2be;
+  --color-peachpuff-200: #f2d0b8;
+  --color-aliceblue: #ecf6ff;
+  --color-steelblue: #3871a5;
+  --color-lightblue: #c5def4;
+  --color-honeydew: #f1faeb;
+  --color-teal: #38715b;
+  --color-lightgoldenrodyellow: #d2e9c2;
+  --primary-blue: #0038cb;
+  --primary-navy: #00447b;
+  --color-darkslateblue-100: #1b1642;
+  --color-lavender-100: #f2ecff;
+  --color-beige: #e0f2d4;
+  --color-royalblue: #387cff;
+  --secondary-05: #ffd88d;
+  --secondary-01: #ffbc99;
+  --secondary-02: #cabdff;
+  --secondary-04: #b5e4ca;
+
+  /* Gaps */
+  --gap-41xl: 60px;
+  --gap-13xl: 32px;
+  --gap-5xl: 24px;
+  --gap-3xs: 10px;
+  --gap-21xl: 40px;
+  --gap-45xl: 64px;
+  --gap-61xl: 80px;
+  --gap-9xl: 28px;
+  --gap-xl: 20px;
+  --gap-xs: 12px;
+  --gap-11xs: 2px;
+  --gap-5xs: 8px;
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-13xl: 32px;
+  --padding-61xl: 80px;
+  --padding-89xl: 108px;
+  --padding-21xl: 40px;
+  --padding-base: 16px;
+  --padding-5xs: 8px;
+  --padding-xl: 20px;
+  --padding-mini: 15px;
+  --padding-5xl: 24px;
+  --padding-121xl: 140px;
+  --padding-101xl: 120px;
+  --padding-3xs: 10px;
+  --padding-7xs: 6px;
+  --padding-xs: 12px;
+  --padding-sm: 14px;
+  --padding-9xs: 4px;
+  --padding-81xl: 100px;
+
+  /* Border radiuses */
+  --br-13xl: 32px;
+  --br-81xl: 100px;
+  --br-39xl: 58px;
+  --br-21xl: 40px;
+  --br-5xs: 8px;
+  --br-980xl: 999px;
+  --br-xl: 20px;
+  --br-26xl: 45px;
+  --br-141xl: 160px;
+  --br-981xl: 1000px;
+  --br-mini-5: 14.5px;
+  --br-11xl-6: 30.6px;
+  --br-61xl: 80px;
+  --br-11xs: 2px;
+  --br-29xl: 48px;
+}

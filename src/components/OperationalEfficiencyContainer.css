@@ -1,0 +1,60 @@
+.frame-child26 {
+  position: relative;
+  border-radius: var(--br-141xl);
+  width: 64px;
+  height: 64px;
+}
+.operational-efficiency {
+  flex: 1;
+  position: relative;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.operational-efficiency-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.automate-ordering-payment {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--body-base-medium-size);
+  letter-spacing: -0.01em;
+  line-height: 150%;
+  color: var(--color-dimgray-100);
+}
+.frame-parent26 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.frame-parent25 {
+  flex-direction: column;
+  gap: var(--gap-5xl);
+}
+.frame-parent24,
+.frame-parent25,
+.frame-wrapper9 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper9 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+}
+.frame-parent24 {
+  flex-direction: row;
+  gap: var(--gap-13xl);
+  text-align: left;
+  font-size: var(--desktop-heading-h6-size);
+  color: var(--neutral-100);
+  font-family: var(--body-xs-normal);
+}

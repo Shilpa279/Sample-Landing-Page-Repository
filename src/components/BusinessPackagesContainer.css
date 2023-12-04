@@ -1,0 +1,108 @@
+.packages-for-your {
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 64px;
+  font-weight: 500;
+  display: inline-block;
+  width: 839px;
+}
+.packages-for-your-business-wrapper {
+  width: 809px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mount {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  font-weight: 500;
+}
+.button10 {
+  border-radius: var(--br-981xl);
+  background-color: var(--neutral-100);
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-xl);
+  box-sizing: border-box;
+}
+.button-parent2,
+.button10,
+.button11 {
+  display: flex;
+  flex-direction: row;
+}
+.button11 {
+  border-radius: var(--br-981xl);
+  width: 100px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xs) var(--padding-xl);
+  box-sizing: border-box;
+  color: var(--neutral-100);
+}
+.button-parent2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-ghostwhite-100);
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs);
+  gap: var(--gap-5xs);
+}
+.group-div,
+.iconinfo1 {
+  position: relative;
+  width: 216px;
+  height: 44px;
+}
+.iconinfo1 {
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.annual- {
+  color: var(--neutral-100);
+}
+.months-free {
+  color: var(--primary-60);
+}
+.annual-2-container {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 20px;
+  font-weight: 600;
+}
+.group-parent,
+.iconinfo-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  font-size: var(--body-xs-normal-size);
+  color: var(--color-darkslateblue-100);
+}
+.group-parent {
+  flex-direction: column;
+  gap: var(--gap-5xs);
+  font-size: var(--desktop-button-small-size);
+  color: var(--white);
+}
+.frame-parent19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  z-index: 0;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--neutral-100);
+  font-family: var(--body-xs-normal);
+}

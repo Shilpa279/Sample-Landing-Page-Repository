@@ -1,0 +1,16 @@
+.menu {
+  position: relative;
+  line-height: 24px;
+  font-weight: 600;
+}
+.statedefault-with-iconfalse {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xs) var(--padding-5xl);
+  text-align: left;
+  font-size: var(--body-base-medium-size);
+  color: var(--greyscale-grey-80);
+  font-family: var(--label-label-2);
+}
